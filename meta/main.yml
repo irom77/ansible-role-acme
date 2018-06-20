@@ -1,6 +1,6 @@
 galaxy_info:
   author: Irek Romaniuk
-  description: Quick and easy acme web installer.
+  description: Galaxy demo
   company: Acme
 
   # If the issue tracker for your role is not on github, uncomment the
